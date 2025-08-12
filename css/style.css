@@ -1,0 +1,35 @@
+body {
+	background-color: seagreen;
+}
+
+.cuerpo {
+	height: 85vh;
+	background-color: white;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.empresa {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.logo {
+	width: 220px;
+	height: 220px;
+}
+.nombreMarca {
+	font-size: 130px;
+}
+
+footer {
+	padding: 20px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	color: white;
+	background-color: black;
+}
